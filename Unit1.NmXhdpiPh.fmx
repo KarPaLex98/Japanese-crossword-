@@ -1,0 +1,18 @@
+inherited Form1_NmXhdpiPh: TForm1_NmXhdpiPh
+  ClientHeight = 375
+  ClientWidth = 640
+  DesignerMasterStyle = 3
+  inherited StringGrid1: TStringGrid
+    Enabled = False
+    Position.Y = 187.000000000000000000
+    Size.Width = 640.000000000000000000
+    Size.Height = 0.032836914062500000
+    Viewport.Width = 640.000000000000000000
+    Viewport.Height = 0.000000000000000000
+  end
+  inherited Panel1: TPanel
+    Position.X = 449.859161376953100000
+    Size.Width = 190.140838623046900000
+    Size.Height = 375.000000000000000000
+  end
+end

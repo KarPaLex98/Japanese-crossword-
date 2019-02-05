@@ -1,0 +1,19 @@
+inherited Form1_Windows: TForm1_Windows
+  BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = Single
+  ClientHeight = 672
+  ClientWidth = 1138
+  DesignerMasterStyle = 3
+  inherited StringGrid1: TStringGrid
+    Enabled = False
+    Size.Width = 1013.915527343750000000
+    Size.Height = 672.000000000000000000
+    Viewport.Width = 1009.900000000000000000
+    Viewport.Height = 647.000000000000000000
+  end
+  inherited Panel1: TPanel
+    Position.X = 797.267578125000000000
+    Size.Width = 340.732421875000000000
+    Size.Height = 672.000000000000000000
+  end
+end

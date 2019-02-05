@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.299,C:\Users\KarPaLex\Desktop\Учёба\Курсач\Unit2.pas=C:\Users\KarPaLex\Desktop\Учёба\Курсач\rabota_s_.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.054,C:\Users\KarPaLex\Desktop\Учёба\Курсач\Unit2.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.771,=C:\Users\KarPaLex\Desktop\Учёба\Курсач\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.290,=C:\Users\KarPaLex\Desktop\Учёба\Курсач\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.410,C:\Users\KarPaLex\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\KarPaLex\Desktop\Учёба\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.870,=C:\Users\KarPaLex\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.323,=C:\Users\KarPaLex\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.000,C:\Users\KarPaLex\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\KarPaLex\Desktop\Учёба\Курсач\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.410,C:\Users\KarPaLex\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\KarPaLex\Desktop\Учёба\Курсач\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.938,=C:\Users\KarPaLex\Desktop\Учёба\Курсач\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.014,C:\Users\KarPaLex\Desktop\Учёба\Курсач\rabota_s_.pas=C:\Users\KarPaLex\Desktop\Учёба\Курсач\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.692,=C:\Users\KarPaLex\Desktop\Учёба\Курсач\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.148,C:\Users\KarPaLex\Desktop\Учёба\Курсач\Project1.dproj=C:\Users\KarPaLex\Desktop\Учёба\Курсач\JapCross.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.441,=C:\Users\KarPaLex\Desktop\Учёба\Курсач\Unit4.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="0123456789ABCDEF"/>
+	</ActiveMobileDevice>
+</BorlandProject>
